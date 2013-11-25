@@ -1,4 +1,4 @@
-android_phone_number_formatter
+Android Phone Number Formatter
 ==============================
 
 Format Android EditText content when it changed.
