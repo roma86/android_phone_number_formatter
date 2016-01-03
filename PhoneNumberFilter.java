@@ -13,10 +13,6 @@ import android.text.method.NumberKeyListener;
  */
 public class PhoneNumberFilter extends NumberKeyListener {
 
-    /*
-    Commented place for different format example
-     */
-
     @Override
     public int getInputType() {
         return InputType.TYPE_CLASS_PHONE;
